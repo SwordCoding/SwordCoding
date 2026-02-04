@@ -1,7 +1,7 @@
 # Hi there, I'm Saif Tamer (SwordCoding) 👋
 
 -  *CS Student* focusing on Software Engineering.
--  Passionate about Backend Development
+-  Passionate about Backend Development.
 -  Skills *Python* , *Oop* and Database Management (SQLite).
 -  Learning *C++* and building efficient algorithms.
 
